@@ -22,7 +22,8 @@ stock_tickers = ["AAPL", "NVDA", "AMZN",           # TECH
                 "JNJ", "PFE", "UNH",             # HEALTHCARE
                 "PG", "WMT", "KO",                # RETAIL
                 "GE", "CAT", "LMT",               # INDUSTRIAL/AEROSPACE
-                "SONY", "SSNLF", "NVO",           # INTERNATIONAL
+                "XOM", "CVX", "SHEL",              # ENERGY
+                "SONY", "BABA", "NVO",           # INTERNATIONAL
                 "SPY", "VOO", "IVV", "QQQ"]       # ETFs
 
 LAUNCHD_LABEL = "com.lil_lawnmower.aitradingengine"

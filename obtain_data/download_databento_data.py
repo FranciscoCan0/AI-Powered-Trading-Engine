@@ -20,7 +20,7 @@ tickers = ["AAPL", "NVDA", "AMZN", #TECH
            "JNJ", "PFE", "UNH", #HEALTHCARE
            "PG", "WMT", "KO", #RETAIL
            "GE", "CAT", "LMT", #INDUSTRIAL/AEROSPACE
-           "SONY", "SSNLF", "NVO",  #INTERNATIONAL
+           "SONY", "NVO",  #INTERNATIONAL
            "SPY", "VOO", "IVV", "QQQ"] #ETFs
 # Request OHLCV-5m data
 data = client.timeseries.get_range(
